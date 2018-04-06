@@ -5,11 +5,11 @@ https://en.wikipedia.org/wiki/Slowloris_(computer_security)
 
 
 # Requirements:
- sudo apt-get update  
- sudo apt-get install perl
- sudo apt-get install libwww-mechanize-shell-perl
- sudo apt-get install perl-mechanize
- sudo chmod +x downapache.sh
+sudo apt-get update 
+sudo apt-get install perl
+sudo apt-get install libwww-mechanize-shell-perl
+sudo apt-get install perl-mechanize
+sudo chmod +x downapache.sh
 
 Leave the downapache script in the same folder as slowloris.pl
 
